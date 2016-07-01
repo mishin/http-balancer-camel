@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1467197842626
+Build-Jdk: 1.8.0_05
+Built-By: Mishin737
+Bundle-ManifestVersion: 2
+Bundle-Name: ServiceMix Web Service Examples :: ws-cxf-service
+Bundle-SymbolicName: ws-cxf-service
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: org.apache.cxf.*,org.springframework.beans.*
+Import-Package: com.fusesource.examples.greeter,com.fusesource.examples.
+ greeter.model;version="[1.0,2)",org.apache.cxf.interceptor;version="[3.
+ 0,4)",org.slf4j;version="[1.7,2)",wsdl;version="[1.0,2)",META-INF.cxf;v
+ ersion="[3.0,4)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.3.0.201405100607

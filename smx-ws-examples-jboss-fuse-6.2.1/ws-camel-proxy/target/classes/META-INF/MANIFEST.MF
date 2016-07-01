@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1467197843552
+Build-Jdk: 1.8.0_05
+Built-By: Mishin737
+Bundle-ManifestVersion: 2
+Bundle-Name: ServiceMix Web Service Examples :: ws-camel-proxy
+Bundle-SymbolicName: ws-camel-proxy
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: org.apache.cxf.*,org.springframework.beans.*
+Import-Package: wsdl;version="[1.0,2)",com.fusesource.examples.greeter.m
+ odel;version="[1.0,2)",META-INF.cxf;version="[3.0,4)",com.fusesource.ex
+ amples.greeter;version="[1.0,2)"
+Tool: Bnd-2.3.0.201405100607

@@ -1,0 +1,13 @@
+com\fusesource\examples\greeter\model\PingMe.class
+com\fusesource\examples\greeter\model\GreetMeOneWay.class
+com\fusesource\examples\greeter\model\package-info.class
+com\fusesource\examples\greeter\Greeter.class
+com\fusesource\examples\greeter\model\ObjectFactory.class
+com\fusesource\examples\greeter\model\FaultDetail.class
+com\fusesource\examples\greeter\model\SayHiResponse.class
+com\fusesource\examples\greeter\GreeterService.class
+com\fusesource\examples\greeter\model\GreetMe.class
+com\fusesource\examples\greeter\PingMeFault.class
+com\fusesource\examples\greeter\model\GreetMeResponse.class
+com\fusesource\examples\greeter\model\SayHi.class
+com\fusesource\examples\greeter\model\PingMeResponse.class

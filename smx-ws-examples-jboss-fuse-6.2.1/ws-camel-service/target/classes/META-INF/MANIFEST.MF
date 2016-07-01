@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1467197843199
+Build-Jdk: 1.8.0_05
+Built-By: Mishin737
+Bundle-ManifestVersion: 2
+Bundle-Name: ServiceMix Web Service Examples :: ws-camel-service
+Bundle-SymbolicName: ws-camel-service
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: org.apache.cxf.*,org.springframework.beans.*
+Import-Package: org.apache.cxf.interceptor;version="[3.0,4)",META-INF.cx
+ f;version="[3.0,4)",wsdl;version="[1.0,2)",com.fusesource.examples.gree
+ ter;version="[1.0,2)",com.fusesource.examples.greeter.model;version="[1
+ .0,2)"
+Tool: Bnd-2.3.0.201405100607
